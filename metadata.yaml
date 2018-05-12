@@ -1,0 +1,31 @@
+_repo: Three-Centuries-of-a-City-Libraryan-Historical-and-Descriptive-Account-of-the-Norwich-Public-__19804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Geo. A. (George Arthur)
+    alias: Stephen, George Arthur
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '8892'
+    url: http://www.gutenberg.org/2009/agents/8892
+description: ''
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19804'
+  lccn: '17025525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Norwich (England). Public Libraries'
+title: 'Three Centuries of a City Library
+
+  an Historical and Descriptive Account of the Norwich Public Library Established
+  in 1608 and the present Public Library opened in 1857'
+url: http://www.gutenberg.org/ebooks/19804
